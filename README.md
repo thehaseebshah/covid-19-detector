@@ -1,17 +1,17 @@
 # Covid-19 Detection Using Lung CT Scans
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/covid_19_detection?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/covid_19_detection)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/covid_19_detection)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/covid_19_detection)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/covid_19_detection?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/covid-19-detector?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/covid-19-detector)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/covid-19-detector)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/covid-19-detector)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/covid-19-detector?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**covid_19_detection** is a *machine learning model* that predicts if a given person has COVID-19 or not, by analyzing their lung CT-Scans. It uses Deep Learning techniques to do so.
+**covid-19-detector** is a *machine learning model* that predicts if a given person has COVID-19 or not, by analyzing their lung CT-Scans. It uses Deep Learning techniques to do so.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
